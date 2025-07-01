@@ -1,1 +1,2 @@
-web: python wikibot.py
+web: python
+ wikibot.py
